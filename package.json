@@ -1,0 +1,27 @@
+{
+  "name": "react-native-clock",
+  "version": "2.1.10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "This React Native Clock in add set time to yearly moring wakeup time to display and this clock is use expo app also.",
+  "peerDependencies": {
+    "react": "18.3.1",
+    "react-native": "0.75.2",
+    "expo": "51.0.29"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashbhalodiya24/Expoapp.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "bugs": {
+    "url": "https://github.com/yashbhalodiya24/Expoapp/issues"
+  },
+  "homepage": "https://github.com/yashbhalodiya24/Expoapp#readme"
+}

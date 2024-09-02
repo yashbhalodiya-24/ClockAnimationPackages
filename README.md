@@ -55,3 +55,8 @@ npm i @expo/vector-icons             -- save
 | :--------  | :----  |  :---------- |
 | start      | Animated.SharedValue<number> |  Represents the start angle in radians, used to determine the initial position on the circular slider.|
 | end        | Animated.SharedValue<number> |  Represents the end angle in radians, used to determine the final position on the circular slider.|
+
+### Demo 
+
+![clock](clock.gif)
+![time](time.gif)
